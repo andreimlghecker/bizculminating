@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BOH4M Business Leadership Culminating — Andrei Gladkikh",
+  title: "BOH4M Business Leadership Culminating | Andrei Gladkikh",
   description:
-    "A Practical Review of Management Fundamentals at Western Technical-Commercial School",
+    "A Practical Review of Management Fundamentals at Western Technical Commercial School",
 };
 
 export default function RootLayout({
