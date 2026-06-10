@@ -1,0 +1,9 @@
+{
+  "framework": "nextjs",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/boh4m_culminating_presentation.html"
+    }
+  ]
+}
